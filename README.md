@@ -1,5 +1,7 @@
 # Stack Overflow Survey Analysis
 
+### Here is my blog post on Medium: https://medium.com/@khoapha/how-age-and-experience-influence-ai-adoption-among-developers-6d15b6ce0bbc
+
 ## Overview
 This project is an exploratory analysis of the Stack Overflow Developer Survey dataset 2023. The main focus is to uncover insights about the realtion and insights of AI into developers in wide range of age and years of expereince.
 
